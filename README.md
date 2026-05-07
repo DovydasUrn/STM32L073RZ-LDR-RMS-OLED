@@ -36,7 +36,6 @@ Two LDR sensors are used for light measurement. Each LDR is connected to a separ
 - LDR average and difference calculation
 - OLED display output
 - UART data transmission to PC
-- STM32CubeMX / STM32CubeIDE project
 
 ## Hardware used
 
